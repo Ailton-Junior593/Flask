@@ -1,0 +1,6 @@
+Flask
+Flask-JWT-Extend
+Flask-Mail
+supabase
+python-dotenv
+werkzeug
